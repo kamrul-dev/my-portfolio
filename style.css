@@ -8,7 +8,7 @@ h1{
     font-size: 40px;
 }
 span{
-    color: orangered;
+    color: orange;
 }
 .title-top{
     border-left: 4px solid orangered;
@@ -34,6 +34,7 @@ span{
     color: white;
     font-weight: 400;
     font-size: 15px;
+    border: none;
 }
 .link-button:hover{
     background-color: orange;
@@ -80,8 +81,42 @@ span{
     background-image: url(../images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px;
-    background-position: right 13% bottom 5%;   
+    background-position: right 13% bottom 6%;   
 }
+.develop-app-section{
+    display: flex;
+    background-image: url(../images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
+    background-position: left 0% top 5%;
+    background-position-x: 250px; 
+
+}
+input[type=text], textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  .form-container {
+    width: 40%;
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 3px orange;
+  }
+  .contact-text-div{
+    text-align: center;
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+  }
 .footer-section{
  width: 100%;
 }
