@@ -36,7 +36,12 @@ h1{
     padding: 8px 16px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;
+    font-weight: 400;
+    font-size: 15px;
+}
+.link-button:hover{
+    background-color: orange;
+    color: white;
 }
 .mission-section{
     
@@ -79,9 +84,17 @@ h1{
     background-position-y: 200px;
 
 }
+.community-section{
+    display: flex;
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right 13% bottom 5%;
+   
+    
+}
 .footer-section{
-    padding-left: 5%;
-    padding-right: 5%;
+ width: 100%;
 }
 .footer-item{
     background-color: black; 
