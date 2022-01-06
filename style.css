@@ -2,26 +2,22 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     width: 100%;
-    margin: auto;
-    
+    margin: auto;  
 }
 h1{
     font-size: 40px;
 }
-
+span{
+    color: orangered;
+}
 .title-top{
     border-left: 4px solid orangered;
 }
 .title-top h1{
     padding-left: 5px;
 }
-
 .flexible-container{
-    display: flex;
-    
-}
-.orange-color{
-    color: orangered;
+    display: flex;  
 }
 .half-width{
     width: 50%;
@@ -42,9 +38,6 @@ h1{
 .link-button:hover{
     background-color: orange;
     color: white;
-}
-.mission-section{
-    
 }
 .Mission2022{
    display: flex;
@@ -69,7 +62,6 @@ h1{
 .bg-color-goals{
     background-color: #FBF5D7;
 }
-
 .illustrator-photo img{
     width: 40%;
     margin-left: 20px;
@@ -82,24 +74,20 @@ h1{
     background-size: 200px;
     background-position: left;
     background-position-y: 200px;
-
 }
 .community-section{
     display: flex;
     background-image: url(../images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px;
-    background-position: right 13% bottom 5%;
-   
-    
+    background-position: right 13% bottom 5%;   
 }
 .footer-section{
  width: 100%;
 }
 .footer-item{
     background-color: black; 
-    color: white;
-    
+    color: white;  
 }
 .footer-text{
     text-align: center;
