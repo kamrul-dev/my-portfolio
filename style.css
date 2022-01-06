@@ -74,7 +74,7 @@ span{
 
 .develop-section{
     display: flex;
-    background-image: url(../images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: left;
@@ -82,14 +82,14 @@ span{
 }
 .community-section{
     display: flex;
-    background-image: url(../images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: right 13% bottom 6%;   
 }
 .develop-app-section{
     display: flex;
-    background-image: url(../images/shapes/shape-3.png);
+    background-image: url(images/shapes/shape-3.png);
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: left;
