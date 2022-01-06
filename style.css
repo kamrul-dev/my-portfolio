@@ -42,6 +42,7 @@ span{
     background-color: orange;
     color: white;
 }
+/*Start Mission,Vission,Goals Section 2022*/
 .Mission2022{
    display: flex;
    justify-content: space-around;
@@ -70,6 +71,8 @@ span{
     margin-left: 20px;
     margin-top: 30px;
 }
+/*End Mission,Vission,Goals Section 2022*/
+
 .develop-section{
     display: flex;
     background-image: url(../images/shapes/shape-1.png);
@@ -95,6 +98,8 @@ span{
     background-position-x: 250px; 
 
 }
+
+/*Start contact form*/
 input[type=text], textarea {
     width: 100%;
     padding: 5px;
@@ -119,6 +124,7 @@ input[type=text], textarea {
     background-color: orange;
     border-radius: 5px;
   }
+/*End contact form*/
 .footer-section{
  width: 100%;
 }
