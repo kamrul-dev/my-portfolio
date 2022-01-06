@@ -28,7 +28,7 @@ h1{
     padding: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 .link-button{
     background-color: orangered;
@@ -70,14 +70,21 @@ h1{
     margin-left: 20px;
     margin-top: 30px;
 }
+.develop-section{
+    display: flex;
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+    background-position-y: 200px;
 
+}
 .footer-section{
     padding-left: 5%;
     padding-right: 5%;
 }
 .footer-item{
-    background-color: black;
-    
+    background-color: black; 
     color: white;
     
 }
